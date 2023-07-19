@@ -39,7 +39,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Archanajyothy&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Archanajyothy&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Archanajyothy&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!---
 Archanajyothy/Archanajyothy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
