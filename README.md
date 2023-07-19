@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Archanajyothy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Archanajyothy&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Archanajyothy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Archanajyothy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 ## 🏆 GitHub Trophies
