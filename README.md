@@ -5,7 +5,7 @@
 🚀 Committed to continuous learning and growth, staying updated with the latest tools and techniques for cutting-edge solutions.      
 😊 Passionate about coding and problem-solving, approaching each project with creativity, efficiency, and attention to detail.     
 💞️ I’m looking for exiciting opportunities.     
-🌱 I love gardening and listening music when I'm not coding.     
+🌱 I love gardening and listening music when I'm not coding..     
 📫 Reach me via my email archanajyothy@gmail.com 
 <br>
 
